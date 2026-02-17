@@ -1,15 +1,23 @@
-# Muhammad Dhafin Ramadhan
-- 📫 Reach me: 
-[Linkedin]((https://www.linkedin.com/in/muhammad-dhafin-ramadhan-18a091259/))
+# Muhammad Dhafin Ramadhan  
 
-## Hii👋, 
-I'M Muhammad Dhafin, im a student at bandung polytechnic state.
-
-
-- 🔭 I’m currently learning cybersecurity, incident responder.
-- 🌱 I really love CTF, especially forensic. 
--  ⚡ Languages: Python, C
-
+📫 **Reach me:**  
+[LinkedIn](https://www.linkedin.com/in/muhammad-dhafin-ramadhan-18a091259/)
 
 ---
 
+## 👋 Hi there  
+
+I'm **Muhammad Dhafin Ramadhan**, a student at **Bandung State Polytechnic** with a strong interest in cybersecurity and digital forensics.
+
+### 🔍 Focus Areas
+- Cybersecurity  
+- Incident Response  
+- Digital Forensics  
+- Capture The Flag (CTF) challenges  
+
+### 🧠 Interests
+I actively explore security concepts through CTF competitions, with a particular focus on forensic analysis and investigation workflows.
+
+### 💻 Technical Skills
+- **Languages:** Python, C  
+- **Security Domains:** Incident response fundamentals, forensic investigation, log analysis  
